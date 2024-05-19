@@ -20,7 +20,7 @@ Ensure you have the following installed:
 1. **Clone the repository**:
     git clone https://github.com/TLapov/CRUD-FS-MODULE.git
 
-2. **Run Node Process** (if any, otherwise skip this step):
+2. **Run Node Process**:
    cd CRUD-FS-MODULE
    node app.js
 
